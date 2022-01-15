@@ -1,0 +1,3 @@
+count_lines(name) function that reads
+an input file and counts the number of lines in it
+(hint: file.readlines() does most of the work for you, and `len` does the rest)
